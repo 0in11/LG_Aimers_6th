@@ -23,7 +23,7 @@
 ## 📊 데이콘 리더보드 성적
 
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/5686f851-1026-4b4d-b6cc-021b2edeecfd)
+  ![Image](https://github.com/user-attachments/assets/ed0a7b84-b605-4bc5-8b9e-5c312f887e56)
 </div>
 
 <div align="center">
