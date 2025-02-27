@@ -26,3 +26,4 @@
   ![Image](https://github.com/user-attachments/assets/5686f851-1026-4b4d-b6cc-021b2edeecfd)
 </div>
 
+**총 794팀 중 53등 → 상위 약 6.67% 달성!**
