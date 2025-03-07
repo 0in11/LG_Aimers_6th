@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/files/19124176/LG.AI.pdf" alt="프로젝트 이미지" width="60%">
+  <img src="https://github.com/user-attachments/assets/383fca25-92d4-429e-af77-2b3ea91b3359" alt="프로젝트 이미지" width="60%">
 </div>
 
 ### 프로젝트 정보
